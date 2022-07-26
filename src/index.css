@@ -10,7 +10,7 @@ body {
 main {
   background-color: #F5F5F5;
   height: 400px;
-  max-width: 800px;
+  max-width: 600px;
   border-radius: 5px;
   padding: 30px;
   display: flex;
@@ -72,4 +72,15 @@ main {
 
 .roll-dice:active {
   box-shadow: inset 5px 5px 10px -3px rgba(0, 0, 0, 0.7);
+}
+
+.game-container {
+  display: grid;
+  grid-template: auto auto / repeat(2, 1fr);
+  gap: 20px;
+}
+.game-stats {
+  font-family: 'Karla', sans-serif;
+  display: grid;
+  gap: 5px;
 }
