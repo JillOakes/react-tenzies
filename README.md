@@ -1,3 +1,5 @@
+Credit to Howler.js audio library from GoldFire Studios, react-confetti from alampros, and nanoid from ai.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
